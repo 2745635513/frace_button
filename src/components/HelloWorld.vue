@@ -21,7 +21,7 @@ export default {
       btns: [],
     };
   },
-  mounted() {
+  created() {
     this.btns = [
       {
         code: "b_nice",

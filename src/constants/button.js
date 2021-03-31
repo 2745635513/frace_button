@@ -12,17 +12,17 @@ export const BACK_BUTTONS = [
   {
     code: "b_ok",
     label: "ok",
-    icon: "el-icon-user-solid",
+    icon: "el-icon-remove",
   },
   {
     code: "b_no",
     label: "no",
-    icon: "el-icon-user-solid",
+    icon: "el-icon-star-off",
   },
   {
     code: "b_hi",
     label: "hi",
-    icon: "el-icon-user-solid",
+    icon: "el-icon-phone",
   },
 ];
 

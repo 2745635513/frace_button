@@ -6,7 +6,7 @@ import "element-plus/lib/theme-chalk/index.css";
 import HelloWorld from "./components/HelloWorld";
 const routes = [
   // { path: "/", component: App },
-  { path: "/hello", component: HelloWorld },
+  { path: "/", component: HelloWorld },
 ];
 
 const router = createRouter({
